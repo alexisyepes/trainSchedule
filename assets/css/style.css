@@ -1,0 +1,27 @@
+body {
+    background-image: url("../css/images/cityBlackAndWhite.jpg");
+    
+}
+
+#container {
+    background-color: grey;
+    width: 960px !important;
+    margin: auto;
+}
+
+.dateTime {
+    text-align: center;    
+}
+
+.card-body,tr {
+    background-color: rgb(207, 204, 204);
+    color: rgb(12, 12, 12);
+    
+}
+
+.card-header {
+    text-align: center;
+    font-weight: bold;
+    background-color: black !important;
+    color: white !important;
+}
